@@ -1,5 +1,5 @@
-# Kutubxona API mini project.
-## Docker bilan ModelzViewSetda.
+# Library API
+## Docker bilan ModelsViewSetda
 
 1. Django RestFrameWorkni o'rnatamiz
 ```shell
@@ -21,4 +21,3 @@ docker-compose run app pyhton manage.py migrate
 docker-compose run app pyhton manage.py createsuperuser
 docker-compose up
 ```
-5. Shu bilan loyiha ishga tushadi
