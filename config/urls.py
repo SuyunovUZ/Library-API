@@ -24,10 +24,10 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Todo API",
+        title="Library API",
         default_version='v1',
         description="Test description",
-        contact=openapi.Contact(email="zamaan@gmail.com"),
+        contact=openapi.Contact(email="suyunov.asilbek.xayrullayevich@gmail.com"),
     ),
     public=True,
     permission_classes=[permissions.AllowAny],
